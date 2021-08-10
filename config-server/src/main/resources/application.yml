@@ -1,0 +1,8 @@
+server:
+  port:9090
+
+  spring:
+    config:
+      server:
+        git:
+          url: https://github.com/maurilio-Desing/dio-experts-config.git
